@@ -16,12 +16,19 @@ h2 {
     color: white;
     margin-top: 10px; 
 }
+h3 {
+    font-size: 1em; 
+    color: white;
+    margin-top: 10px; 
+}
 
 body {
     background: linear-gradient(to right, rgb(28, 59, 196), rgb(132, 6, 90));
     margin: 0;
     font-family: Arial, sans-serif;
 }
+
+
 
 .profile-container {
     text-align: center; 
@@ -34,6 +41,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 50px;
+    align-items: center;
 }
 
 .channel {
